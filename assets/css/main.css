@@ -208,6 +208,16 @@ section {
   transition: 0.3s;
 }
 
+.hero .btn-get-started scrollto {
+
+  color: var(--color-inverse);
+  background: var(--color-primary);
+  font-size: 14px;
+  padding: 8px 26px;
+  margin: 0;
+  border-radius: 4px;
+  transition: 0.3s;
+}
 .header .btn-getstarted:hover,
 .header .btn-getstarted:focus:hover {
   color: var(--color-inverse);
