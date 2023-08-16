@@ -1744,7 +1744,7 @@ section {
 
 .call-to-action .container {
   position: relative;
-  z-index: 3;
+  z-index: 4;
 }
 
 .call-to-action h3 {
